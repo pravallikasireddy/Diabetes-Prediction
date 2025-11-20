@@ -1,5 +1,5 @@
 
-# 🩺 Diabetes Prediction using Machine Learning  
+# Diabetes Prediction using Machine Learning  
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-RandomForest-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
