@@ -1,4 +1,3 @@
-
 # Diabetes Prediction using Machine Learning  
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-RandomForest-green)
